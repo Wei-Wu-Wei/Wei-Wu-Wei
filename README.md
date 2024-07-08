@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chaitanya Gaur. I am studying CSE and EE Domains as an Engineering Science undergraduate at IIT Jodhpur.
+- 👋 Hi, I’m Chaitanya Gaur. I have CSE and EE Domains as an Engineering Science undergraduate at IIT Jodhpur.
 - 👀 I’m interested in Cryptography and Machine Learning.
 - 🌱 I’m currently learning Signal Protocol.
 - 💞️ I’m looking to collaborate on ...
